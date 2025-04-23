@@ -21,7 +21,14 @@ sudo apt-get install ffmpeg
 Next, install the Python package that interfaces with FFmpeg:
 
 ```bash
+# Option 1: Using pip directly
 pip3 install ffmpeg-python
+
+# Option 2: Using pip with requirements.txt
+pip3 install -r requirements.txt
+
+# Option 3: Using Poetry with pyproject.toml
+poetry install
 ```
 
 ⚠️ Make sure you install `ffmpeg-python`, not just `ffmpeg` (which is a different package).
