@@ -74,5 +74,5 @@ https://github.com/user-attachments/assets/c59b79e1-1ffb-447b-b500-34ae4a90f20d
 
 ## 🙏 Credits
 
-This script uses FFmpeg, a powerful multimedia framework, and the ffmpeg-python wrapper, which provides a friendly Python interface.
+This script uses [FFmpeg](https://www.ffmpeg.org/about.html), a powerful multimedia framework, and the ffmpeg-python wrapper, which provides a friendly Python interface.
 
