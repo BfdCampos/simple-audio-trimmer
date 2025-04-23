@@ -55,6 +55,11 @@ Remove the first 5 seconds and save with a custom name:
 python3 audio_trim.py -p ~/Downloads/podcast.mp3 -s 0 -e 5 -o ~/Music/edited_podcast.mp3
 ```
 
+## 👟 Demo
+
+https://github.com/user-attachments/assets/c59b79e1-1ffb-447b-b500-34ae4a90f20d
+
+
 ## 💡 How It Works
 
 1. The script takes the audio before the segment you want to remove
